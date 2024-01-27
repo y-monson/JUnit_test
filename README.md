@@ -4,6 +4,12 @@ The aim of this project is to perform a unit test for a Java Program. The progra
 
 Java project is built with Maven.
 
-## Screenshot
-Here is the result of the test output:
+## Screenshots
+
+### The test file used for the getNextChar() method:
+
+![test file image](/screenshots/test_file.png)
+
+### Here is the result of the test output:
+
 ![test image](/screenshots/JUnit_screenshot.png)
